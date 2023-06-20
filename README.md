@@ -6,6 +6,7 @@ This program, developed for the Corner Grocer, provides several useful features.
   2. Prints a list of all the items in the input file along with the number of times each item appears.
   3. Creates a histogram of the frequency information from the input file. It displays each item followed by a representation of the frequency using asterisks or other special characters.
   4. Exit the program.
+
 The Corner Grocer can utilize this program to analyze purchase patterns and make informed decisions based on the data.
 
 **2. What did you do particularly well?**
